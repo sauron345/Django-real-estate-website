@@ -1,14 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="1719d922-2592-44b2-8e29-cc08b8a917fb" name="Changes" comment="" />
+    <list default="true" id="1719d922-2592-44b2-8e29-cc08b8a917fb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/account/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contacts/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listings/choices.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listings/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/accounts/dashboard.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/accounts/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/accounts/register.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/admin/base_site.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/listings/listing.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/listings/listings.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/listings/search.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/pages/about.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/pages/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/partials/_alerts.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/partials/_footer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/partials/_navbar.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/partials/_topbar.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/kolejny-kurs.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/btre_project.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ExportToHTMLSettings">
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/../kolejny-kurs\exportToHTML" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsBowerSettings">
+    <bower-package value="" />
+    <bower.json value="" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -18,13 +52,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/kodowanie w Pythonie/praca z Django/kolejny-kurs/manage.py&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;terminal&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;postgresql&quot;
+    ]
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\kodowanie w Pythonie\praca z Django\kolejny-kurs\btre_project\static\css" />
+      <recent name="C:\kodowanie w Pythonie\praca z Django\kolejny-kurs\btre_project" />
+      <recent name="C:\kodowanie w Pythonie\praca z Django\kolejny-kurs\" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -33,7 +81,35 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1665482977415</updated>
-      <workItem from="1665482978974" duration="229000" />
+      <workItem from="1665482978974" duration="9242000" />
+      <workItem from="1665503045813" duration="6048000" />
+      <workItem from="1665510339408" duration="13000" />
+      <workItem from="1665510368640" duration="4000" />
+      <workItem from="1665510383393" duration="4000" />
+      <workItem from="1665510394534" duration="42000" />
+      <workItem from="1665510482863" duration="17000" />
+      <workItem from="1665510601239" duration="34000" />
+      <workItem from="1665510659876" duration="1532000" />
+      <workItem from="1665514439498" duration="1513000" />
+      <workItem from="1665516123972" duration="3040000" />
+      <workItem from="1665559996643" duration="1284000" />
+      <workItem from="1665564627621" duration="606000" />
+      <workItem from="1665570281990" duration="3000" />
+      <workItem from="1665589950369" duration="2244000" />
+      <workItem from="1665653377543" duration="14749000" />
+      <workItem from="1665736540863" duration="25887000" />
+      <workItem from="1665826374603" duration="9092000" />
+      <workItem from="1665844406403" duration="11310000" />
+      <workItem from="1665906390562" duration="6259000" />
+      <workItem from="1665927950150" duration="772000" />
+      <workItem from="1665932682472" duration="5069000" />
+      <workItem from="1665996709945" duration="9645000" />
+      <workItem from="1666008832185" duration="8218000" />
+      <workItem from="1666025823185" duration="1079000" />
+      <workItem from="1666029676743" duration="21000" />
+      <workItem from="1666029993031" duration="1830000" />
+      <workItem from="1666040673330" duration="1588000" />
+      <workItem from="1666079474068" duration="15899000" />
     </task>
     <servers />
   </component>
