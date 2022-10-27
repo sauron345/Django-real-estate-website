@@ -9,3 +9,4 @@ db.sqlite3-journal
 my_venv
 /static
 btre_project/static
+.gitignore

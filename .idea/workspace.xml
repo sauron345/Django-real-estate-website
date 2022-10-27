@@ -5,28 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1719d922-2592-44b2-8e29-cc08b8a917fb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/account/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contacts/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/listings/choices.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/listings/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/accounts/dashboard.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/accounts/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/accounts/register.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/admin/base_site.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/listings/listing.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/listings/listings.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/listings/search.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/pages/about.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/pages/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/partials/_alerts.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/partials/_footer.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/partials/_navbar.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/partials/_topbar.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/kolejny-kurs.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/btre_project.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -109,7 +88,32 @@
       <workItem from="1666029676743" duration="21000" />
       <workItem from="1666029993031" duration="1830000" />
       <workItem from="1666040673330" duration="1588000" />
-      <workItem from="1666079474068" duration="15899000" />
+      <workItem from="1666079474068" duration="16336000" />
+      <workItem from="1666268404493" duration="150000" />
+      <workItem from="1666273551005" duration="17000" />
+      <workItem from="1666275738342" duration="10000" />
+      <workItem from="1666277941131" duration="18000" />
+      <workItem from="1666277961269" duration="5000" />
+      <workItem from="1666278349648" duration="28000" />
+      <workItem from="1666278380098" duration="6000" />
+      <workItem from="1666556771097" duration="161000" />
+      <workItem from="1666557041198" duration="5000" />
+      <workItem from="1666557116230" duration="1098000" />
+      <workItem from="1666601045241" duration="79000" />
+      <workItem from="1666601127215" duration="2000" />
+      <workItem from="1666615703640" duration="12000" />
+      <workItem from="1666615776526" duration="10000" />
+      <workItem from="1666631660993" duration="21000" />
+      <workItem from="1666631707554" duration="27000" />
+      <workItem from="1666631808909" duration="22000" />
+      <workItem from="1666632279608" duration="120000" />
+      <workItem from="1666633795331" duration="16000" />
+      <workItem from="1666633813543" duration="2000" />
+      <workItem from="1666634051479" duration="31000" />
+      <workItem from="1666634143404" duration="37000" />
+      <workItem from="1666777974627" duration="754000" />
+      <workItem from="1666779597604" duration="9000" />
+      <workItem from="1666899772019" duration="1072000" />
     </task>
     <servers />
   </component>
