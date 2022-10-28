@@ -5,9 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1719d922-2592-44b2-8e29-cc08b8a917fb" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/btre_project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/btre_project.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/btre_project/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/btre_project/settings.py" afterDir="false" />
     </list>
@@ -119,7 +116,7 @@
       <workItem from="1666899772019" duration="2000000" />
       <workItem from="1666903115617" duration="402000" />
       <workItem from="1666944217027" duration="22000" />
-      <workItem from="1666944248130" duration="747000" />
+      <workItem from="1666944248130" duration="2017000" />
     </task>
     <servers />
   </component>
