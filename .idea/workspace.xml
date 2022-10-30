@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1719d922-2592-44b2-8e29-cc08b8a917fb" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/btre_project/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/btre_project/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contacts/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/contacts/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -119,7 +120,11 @@
       <workItem from="1666944248130" duration="7364000" />
       <workItem from="1666961142192" duration="10000" />
       <workItem from="1666973362414" duration="1890000" />
-      <workItem from="1667047487860" duration="1171000" />
+      <workItem from="1667047487860" duration="1485000" />
+      <workItem from="1667053236358" duration="689000" />
+      <workItem from="1667079107440" duration="37000" />
+      <workItem from="1667081457936" duration="415000" />
+      <workItem from="1667125788319" duration="12000" />
     </task>
     <servers />
   </component>
